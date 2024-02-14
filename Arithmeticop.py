@@ -1,0 +1,8 @@
+print("Arithmetic operations")
+print("")
+print("")
+print("")
+print("Addiition of two no:")
+x=input(int())
+y=input(int())
+print(x + y)
